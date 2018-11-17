@@ -1,0 +1,10 @@
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.config
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.pdb
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Form1.resources
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Properties.Resources.resources
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.GenerateResource.Cache
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.CoreCompileInputs.cache
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.pdb
+C:\Users\polin_go7afbi\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csprojResolveAssemblyReference.cache
